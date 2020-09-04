@@ -1,18 +1,18 @@
 IRLTime-Plus (A Fork of IRLTime by Pelt10)
 ------
-Set World Time to real time (customizable)
+Set World Time to Real Time (customizable)
 
 –| USAGE |–
 
-<TO BE EDITED>
+(TO BE EDITED)
 
 After the installation(cf. INSTALL step), the server time is set in real time. If you want to disable it, you just have to execute the command "/irltime", to reactivate just retype the command!
 
 –| INSTALL |–
 
-<TO BE EDITED>
+(TO BE EDITED)
 
-1. Unsure that your computer/server time is set to real time
+1. Ensure that your server's time is set to real time (or to the time you wish to emulate)
 2. [Download the](https://www.spigotmc.org/resources/irl-time.44809/) plugin and put it in your server “plugins” directory
 4. Restart or reload your server
 5. Set game rule “doDaylightCycle” to false (/gamerule doDaylightCycle false)
@@ -20,7 +20,7 @@ After the installation(cf. INSTALL step), the server time is set in real time. I
 
 –| SUPPORT |–
 
-<TO BE EDITED>
+(TO BE EDITED)
 
 If you need some help you can contact me on Discord(Pelt10#0289).\
 If you find a bug, please report it on the issues tracker, thanks <3 !
